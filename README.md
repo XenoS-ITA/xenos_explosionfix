@@ -6,10 +6,4 @@ Hello guys, you know one of the most **common bugs** that are on fivem, that of 
 
 its a simple bug fix but its highly needed.
 
-![line|690x10, 100%](https://i.imgur.com/fWi6erI.png) 
-**• How to install?**
-*installation is really simple and the same as any other script*
-1![download|74x20, 100%](https://i.imgur.com/mqxYryX.png)
-2 Simply put this in your server like any other script.
- 
-3 Add on server.cfg **start xenos_explosionfix**
+For any type of support contact me on discord > **XenoS.єχє#2859**
